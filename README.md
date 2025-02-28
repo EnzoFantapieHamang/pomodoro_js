@@ -1,6 +1,6 @@
 # Pomodoro
 
- Food Application est une petite application Javascript qui permet de rechercher des repas via une API.
+ Pomodoro is a little application in Javascript usefull to manage your time like break time for example.
 
 ## Installation
 
